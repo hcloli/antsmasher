@@ -15,6 +15,8 @@
         <module>stream-api</module>
         <module>stream-impl</module>
         <module>integration-tests</module>
+        <module>ants-publisher-api</module>
+        <module>ants-publisher-impl</module>
     </modules>
 
     <build>
