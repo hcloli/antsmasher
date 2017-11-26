@@ -16,8 +16,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>${project.groupI
-            d}</groupId>
+            <groupId>${project.groupId}</groupId>
             <artifactId>admin-service-api</artifactId>
             <version>${project.version}</version>
         </dependency>
