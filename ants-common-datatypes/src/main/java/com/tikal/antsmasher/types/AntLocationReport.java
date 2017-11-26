@@ -1,4 +1,4 @@
-package com.tikal.antsmasher;
+package com.tikal.antsmasher.types;
 
 import lombok.Builder;
 import lombok.Value;

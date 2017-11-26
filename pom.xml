@@ -20,6 +20,8 @@
         <module>ants-publisher-api</module>
         <module>ants-publisher-impl</module>
         <module>ants-common-datatypes</module>
+        <module>ants-firehose-service-api</module>
+        <module>ants-firehose-service-impl</module>
     </modules>
 
     <build>
