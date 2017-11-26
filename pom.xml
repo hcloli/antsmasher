@@ -19,6 +19,7 @@
         <module>integration-tests</module>
         <module>ants-publisher-api</module>
         <module>ants-publisher-impl</module>
+        <module>ants-common-datatypes</module>
     </modules>
 
     <build>
