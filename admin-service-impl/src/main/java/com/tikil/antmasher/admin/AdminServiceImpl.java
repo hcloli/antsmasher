@@ -1,10 +1,11 @@
 package com.tikil.antmasher.admin;
 
-import com.lightbend.lagom.javadsl.api.Descriptor;
+import akka.Done;
+import com.lightbend.lagom.javadsl.api.ServiceCall;
 
 public class AdminServiceImpl implements AdminService{
     @Override
-    public Descriptor descriptor() {
+    public ServiceCall<CreateUserMessage, Done> createUser() {
         return null;
     }
 }
