@@ -10,6 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>admin-service-api</module>
+        <module>admin-service-impl</module>
+        <module>hello-impl</module>
         <module>hello-api</module>
         <module>hello-impl</module>
         <module>stream-api</module>
